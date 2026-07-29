@@ -7,8 +7,6 @@ This project is perfect for:
 📊 Data Analyst aspirants who want to build a strong Portfolio Project for interviews and LinkedIn
 📚 Anyone learning Python, SQL, and Power BI
 💼 Professionals preparing for interviews in Data Analytics, Data Science or Product Analytics roles
-🎥 Watch this YouTube video to implement the full project from scratch:
-Advanced Data Analysis Portfolio Project using Retail Customer Data 🔗 Link to Video: Watch on Youtube
 
 📌 Project Overview
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
